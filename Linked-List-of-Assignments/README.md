@@ -1,0 +1,2 @@
+# Linked List of Assignments
+The program maintains a linked list of homework assignments within a month. Each assignment stored in the list has a name, description and due date. The program can create and add an assignment to the list, remove an assignment, display all the assignments in the list or find and display the assignment(s) with the earliest due date, depending on the input from the user. There is a user-friendly interface with instructions on how to operate the program properly.
